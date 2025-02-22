@@ -10,7 +10,8 @@
 }
 
 .header-row {
-  background-color:palevioletred;
+  background-color:rgb(1, 14, 14);
+  color: azure;
   font-style: oblique;
   display: flex;
   justify-content: space-between;
@@ -40,13 +41,19 @@
 .row {
   padding: 100px;
   height: 75%;
+  background-color: rgb(28, 28, 57);
 }
 
 .row .box {
   padding: 20px;
   margin: 10px;
- background-color: silver;
+ background-color:white;
   border-radius: 15px;
+}
+ .ro {
+  padding: 100px;
+  height: 75%;
+  background-color:white;
 }
 
 .footer {
